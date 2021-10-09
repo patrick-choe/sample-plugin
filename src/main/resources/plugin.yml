@@ -1,0 +1,9 @@
+name: CronRunner
+main: io.github.patrick.sample.plugin.SamplePlugin
+version: 1.0
+description: Sample plugin
+author: PatrickKR
+website: https://github.com/patrick-choe/sample-plugin
+api-version: 1.17
+libraries:
+  - org.jetbrains.kotlin:kotlin-stdlib:1.5.31
